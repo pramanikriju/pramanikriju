@@ -1,6 +1,6 @@
 # Riju Pramanik
 
-[<img align="right" alt="Riju.com" width="50%" src="https://riju.co/assets/svg/developer.svg" />][website]
+[<img align="right" alt="Riju.com" width="50%" src="https://avatars.githubusercontent.com/u/9090334?s=400&u=db21789f4b9521357f538ab1c0f0d745ad0545f3&v=4" />][website]
 
 ### A full stack developer
 
